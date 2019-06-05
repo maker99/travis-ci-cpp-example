@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/maker99/travis-ci-cpp-example.svg?branch=master)](https://travis-ci.org/maker99/travis-ci-cpp-example)
+[![Build Status](https://travis-ci.com/maker99/travis-ci-cpp-example.svg?branch=master)](https://travis-ci.com/maker99/travis-ci-cpp-example)
 [![Coverage Status](https://coveralls.io/repos/github/maker99/travis-ci-cpp-example/badge.svg?branch=master)](https://coveralls.io/github/maker99/travis-ci-cpp-example?branch=master)
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-blue.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
-https://travis-ci.com/maker99/travis-ci-cpp-example#
+
 
 # Simple Example for C/C++ Testing
 
